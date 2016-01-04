@@ -10,12 +10,8 @@ A boilerplate for Bootstrap projects using Sass 7-1 architecture and JS revealin
 * Shows unobtrusive bar to the visitors who is visiting your website with an IE <= 9 browser.
 * Prevents auto zoom on iOS when entering an input field.
 * Disables auto-formatting of possible phone numbers in a webpage in Safari on iOS.
-* Removes webkit input fields outline gow on focus.
+* Removes webkit input fields outline glow on focus.
 
 ## Documentation
 
 Each folder of this project has its own README.md file to explain the purpose and add extra information. Be sure to browse the repository to see how it works.
-
-## Contributing
-
-Anyone and everyone is welcome to contribute.
