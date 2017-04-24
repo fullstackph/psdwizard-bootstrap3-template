@@ -1,4 +1,4 @@
-# PSD Wizard Template
+# PSD Wizard Bootstrap 3 Template
 
 A boilerplate for Bootstrap projects using Sass 7-1 architecture and JS revealing module patterns.
 
